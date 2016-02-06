@@ -1,0 +1,41 @@
+.Center{
+	text-align: center;
+}
+
+.alltext{
+	font-size: 17px;
+	padding-left: 20px;
+}
+
+.MainDiv{
+	background: white;
+	width: 520px;
+	height: 750px;
+	border: solid 1px #cecece;
+	position: absolute;
+	left: 50%;
+	margin-left: -260px;
+}
+
+.TextDiv{
+	margin: 10px 50px 10px 50px;
+}
+
+li{
+	padding-top: 10px;
+}
+
+hr{
+	margin-bottom: 30px;
+}
+p{
+	margin-left: 10px;
+}
+.next{
+	margin-top: 0px;
+	padding-top: 0px;
+}
+.pred{
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+}
